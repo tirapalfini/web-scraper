@@ -1,5 +1,3 @@
-Web Scraper for Recipe Website
-
 This web scraper is implemented in ruby with Nokogiri parser.
 
 The program was created to obtain data for a class project. 
